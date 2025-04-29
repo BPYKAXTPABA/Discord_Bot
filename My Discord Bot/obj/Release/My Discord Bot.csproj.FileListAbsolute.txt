@@ -1,0 +1,46 @@
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\My_Discord_Bot.exe.config
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\My_Discord_Bot.exe.manifest
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\My_Discord_Bot.application
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\My_Discord_Bot.exe
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\My_Discord_Bot.pdb
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\ConcurrentCollections.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.CommandsNext.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.Interactivity.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.SlashCommands.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Newtonsoft.Json.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Buffers.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Collections.Immutable.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Memory.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Numerics.Vectors.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Threading.Channels.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\ConcurrentCollections.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.CommandsNext.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.Interactivity.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\DSharpPlus.SlashCommands.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\Newtonsoft.Json.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Buffers.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Collections.Immutable.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Memory.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Numerics.Vectors.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Threading.Channels.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My Discord Bot.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My_Discord_Bot.exe.manifest
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My_Discord_Bot.application
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My Disco.BE320F0A.Up2Date
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My_Discord_Bot.exe
+C:\Users\LENOVO\RiderProjects\My Discord Bot Better Ver\My Discord Bot\obj\Release\My_Discord_Bot.pdb
