@@ -12,7 +12,7 @@ namespace MyDiscordBot.commands
         [Command("help")]
         public async Task Help(CommandContext ctx)
         {
-            await ctx.Channel.SendMessageAsync(content: "просто напиши "/" и ты увидишь все комманды с описанием =)");
+            await ctx.Channel.SendMessageAsync(content: "просто напиши / и ты увидишь все комманды с описанием =)");
         }
         
         
