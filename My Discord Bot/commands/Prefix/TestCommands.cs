@@ -12,7 +12,7 @@ namespace MyDiscordBot.commands
         [Command("help")]
         public async Task Help(CommandContext ctx)
         {
-            await ctx.Channel.SendMessageAsync(content: "пошел нахуй");
+            await ctx.Channel.SendMessageAsync(content: "просто напиши "/" и ты увидишь все комманды с описанием =)");
         }
         
         
@@ -23,14 +23,14 @@ namespace MyDiscordBot.commands
         }
 
         
-        [Command(name: "random")]
+        [Command(name: "random")] // комманда рандмных числел. пример: !random 1 100
         public async Task Random(CommandContext ctx, int min, int max)
         {
             var randomValue = new System.Random().Next(min, max);
             await ctx.Channel.SendMessageAsync( content:ctx.User.Mention + " - ваше число " + randomValue);
         }
         
-        private const ulong TargetUserId = 1029113473445150851; //  ID назара
+        private const ulong TargetUserId = 1234567890123456789; // всавьте сюда любое айди кого хотите чтобы отпраляло в тайм-аут на 1 минуту.
 
         [Command("!")]
         public async Task TimeoutUser(CommandContext ctx)
