@@ -1,7 +1,7 @@
 in order to upload your token, you need to:
 
-insert your token into the JSONReader .cs file
+insert your token into the token.json file
 
-pathway to JSONReader.cs
+pathway to config.json
 
-My Discord Bot/config/JSONReader.cs
+My Discord Bot/config/config.json
